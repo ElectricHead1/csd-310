@@ -1,6 +1,3 @@
-
-
-
 from pymongo import MongoClient
 
 url = "mongodb+srv://admin:admin@cluster0.4ysrd.mongodb.net/pytech?authSource=admin&replicaSet=atlas-115hgx-shard-0&readPreference=primary&ssl=true"
